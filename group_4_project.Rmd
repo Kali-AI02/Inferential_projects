@@ -1,0 +1,16 @@
+---
+title: "Inferential_project"
+author: "Group_4"
+date: "2025-04-17"
+output: html_document
+---
+
+```{r}
+library(readxl)
+My_data <- read.csv("C:/Users/gihoz/OneDrive/Belgeler/Inferential_projects/Inferential_projects/Dataset/mental_health_and_technology_usage_2024.csv")
+```
+
+```{r}
+head(My_data)
+```
+
